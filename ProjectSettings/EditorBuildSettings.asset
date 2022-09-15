@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Homepage.unity
     guid: 7113073d3b4ea3e45a41c95f9e65b0cd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Linked List/MenuLinkedList.unity
     guid: 3956482b3b1563e4197d4e109134e49f
   - enabled: 1
@@ -33,6 +33,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Advanced Sort/MergeSort().unity
     guid: d8606d43327d4aa45b2123293a8d5f53
   - enabled: 1
+    path: Assets/Scenes/Advanced Sort/QuickSort().unity
+    guid: c555010826221d84a921397dda353227
+  - enabled: 1
     path: Assets/Scenes/Advanced Sort/Partition().unity
     guid: 9c0ec8361cfa19445b84f453d7f4d338
+  - enabled: 1
+    path: Assets/Scenes/Linked List/SinglyAR.unity
+    guid: c23c17673e0234c4daac8af5b1e125a9
+  - enabled: 1
+    path: Assets/Scenes/Linked List/SortedAR.unity
+    guid: a644895faae2dab43ae31e490bf2a53f
+  - enabled: 1
+    path: Assets/Scenes/Linked List/UnsortedAR.unity
+    guid: 2786744008d2d9a428ad17b1bbc4321b
   m_configObjects: {}
